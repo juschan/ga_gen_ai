@@ -25,6 +25,8 @@ GA Generative AI Resources
 
 - [Hackers can read private AI-assistant chats even though they’re encrypted](https://arstechnica.com/security/2024/03/hackers-can-read-private-ai-assistant-chats-even-though-theyre-encrypted/)
 
+- Go to 'Settings' and use the 'Browse with Bing' feature to let ChatGPT access the Internet.
+
 ### Prompt Optimization
 
 - [OpenAI - Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
@@ -38,8 +40,9 @@ GA Generative AI Resources
 
 ### Generative AI for Data Analysis
 
+- [Life Expectancy Data](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 
-### Identifying Trends nad Insights
+### Identifying Trends and Insights
 
 
  - loved ones
